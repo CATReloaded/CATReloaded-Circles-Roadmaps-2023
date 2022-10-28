@@ -121,3 +121,15 @@
 
  ## Advanced B
  More to be added.
+
+---
+
+### **Feel free to contact us:**
+- [Khaled El-Hady](https://www.linkedin.com/in/khaled-el-hady)
+- [Rania Hossam](https://www.linkedin.com/in/rania-hossam55)
+- [Mohamed Ayman](https://www.linkedin.com/in/mohammed-ayman-20b108228)
+- [Ahmed Metawaa](https://www.linkedin.com/in/ahmed-metawaa)
+- [Omar Allam](https://www.linkedin.com/in/omarallam22)
+- [Menna El-sahy](https://www.linkedin.com/in/mennatullahelsahy)
+- [Ahmed El-Bayomi](https://www.linkedin.com/in/ahmed-khaled-2bb212233)
+- [Aya hazem](https://www.linkedin.com/in/aya-hazem-86b077227)

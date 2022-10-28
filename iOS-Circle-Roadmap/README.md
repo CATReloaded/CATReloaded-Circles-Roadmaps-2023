@@ -1,4 +1,4 @@
-## 💻 iOS Roadmap
+# 💻 iOS Roadmap
 
 ![ios](https://arkasoftwares.s3.us-east-2.amazonaws.com/inner-pages/ios-application-development-revolutionizing-the-world-of-apps.svg)
 
@@ -6,14 +6,14 @@ A roadmap for iOS developers that can guide you from the very basics of the trac
 
 **First of all, we have to talk about**
 ___
-## 📗 Why should you learn iOS development?
+# 📗 Why should you learn iOS development?
 ![ios](https://www.scnsoft.com/mobile/ios-development.svg)
 
 with over 1.8 billion apple devices all over the world including (📱 iPhone, 📱 iPad, 💻 MacOS 🖥 Apple TV, ⌚ Apple Watch) it has become essential for companies to develop iOS apps for their services.
 
 Before starting with Android you have to know about Git and GitHub. (If you know about them you can skip this section).
 ___
-## Git and GitHub:
+# Git and GitHub:
 
 ![ios](https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png)
 First,what is the difference between Git and GitHub? [See this](https://devmountain.com/blog/git-vs-github-whats-the-difference/)
@@ -28,7 +28,7 @@ Use this file that NOW,you need to know how to use Git and GitHub with Xcode whi
 
 You are ready to start your journey with iOS but before starting with iOS you have to learn a programming language and because it's iOS, we recommend you start learning with Swift.
 ___
-## But.. Why Swift? 🤔
+# But.. Why Swift? 🤔
 * High performance and excellent responsiveness of mobile apps;
 * Access to native API’s and the ability to integrate the full range of features, that will exchange the data with other iOS devices;
 * Out-of-the-box solutions for CI/CD;
@@ -38,7 +38,7 @@ ___
 * Swift is a statically typed language enabling developers to rely on XCode and be able to track the errors and speed up the debugging process;
 * Clear code, rich UX, smooth performance – that’s what you’ll get if you choose to build a Swift app.
 ___
-## Learning Swift
+# Learning Swift
 ![ios](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png)
 ```Resources:```
 1. Swift Programming Tutorial
@@ -64,7 +64,7 @@ ___
 *  **📋Build a simple project with Swift** 
 ___
 
-## iOS basics:
+# iOS basics:
 Now you are ready to start programming real iOS apps.
 ![image](https://www.appcoda.com/learnswift/images/swiftui-basics/swiftui-basic-0.png)
 
@@ -77,7 +77,7 @@ Now you are ready to start programming real iOS apps.
 
 ___
 
-## iOS Intermediate:
+# iOS Intermediate:
 Now we will start writing iOS apps using the skills we have learned in the previous levels as we will use Swift we've just learned with the iOS skills we have built before to make much more powerful and usable iOS apps.
 ![iOS](https://www.appcoda.com/learnswift/images/testflight/testflight-0.png)
 
@@ -100,7 +100,7 @@ Now we will start writing iOS apps using the skills we have learned in the previ
 
 ___
 
-## Advanced level:
+# Advanced level:
 ![ios](https://assets.st-note.com/production/uploads/images/53864080/eca2bbdad9955ed4d8f85230bbd79e5b.png)
 **In this level we will learn**
 1. [Firebase](https://www.youtube.com/watch?v=Mroju8T7Gdo&list=PL5PR3UyfTWvdlk-Qi-dPtJmjTj-2YIMMf) 
@@ -110,7 +110,7 @@ ___
 2. [SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 ___
 
-## Some advice
+# Some advice
 1. **Write clean code it's a very very important skill you must have**
    1. you can learn claen code from [this book](https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf) (Recommended)
    2. and you can see [this list](https://www.youtube.com/watch?v=WnoZa933kq0&list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) for more explain

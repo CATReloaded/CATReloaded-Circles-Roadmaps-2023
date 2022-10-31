@@ -189,7 +189,7 @@ Additional Resource : [Powercert Animated Videos](https://www.youtube.com/c/Powe
 
 ![nw.png](imgs/nw.png)
 
-**📌 Here is our new [Network Security Roadmap](https://www.notion.so/Network-Security-Roadmap-65f3908194664c9aa708c60e6a73826e)**
+**📌 Here is our new [Network Security Roadmap](https://hacknote.notion.site/Network-Security-Roadmap-65f3908194664c9aa708c60e6a73826e)**
 
 ---
 ---

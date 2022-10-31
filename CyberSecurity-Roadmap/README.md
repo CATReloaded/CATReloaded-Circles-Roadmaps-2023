@@ -146,7 +146,7 @@ Additional Resource : [Powercert Animated Videos](https://www.youtube.com/c/Powe
 
 **📌 1. Our old Roadmap [HERE](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing) By Muhammad Gamal**
 
-**Here’s The [new one](https://www.notion.so/Penetration-Testing-Roadmap-89fd7b2f644d4324ad791d1cc2d3c40c) base on the old roadmap and more simplified**
+**Here’s The [new one](https://www.notion.so/Penetration-Testing-Roadmap-89fd7b2f644d4324ad791d1cc2d3c40c) base on the old roadmap and more simplified(We will make sure to keep it updated)**
 
 📌 2. To Practice:
 - Create account on [hackerone](https://www.hackerone.com/) , [bugcrowd](https://www.bugcrowd.com/), [intigriti](https://www.intigriti.com/programs)

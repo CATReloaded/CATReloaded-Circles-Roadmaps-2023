@@ -75,6 +75,8 @@ Linear-time selection
 - [Stanford course at coursera](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms#syllabus).
 ---
 # Intermediate Level
+**Note :**
+before this level you should have a good knowledge with [digital design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and basics knowledge with [electronics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei) `
 ### MCU Architecture 
 - processor execution steps(fetch,decode,Execute)
 - MCU fundamental

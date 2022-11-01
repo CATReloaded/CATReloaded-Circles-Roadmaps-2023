@@ -2,7 +2,7 @@
 
 *This roadmap assumes that you do not have any knowledge of design. If you are familiar with some things here, feel free to skip them. If not, you can continue reading.*
 
-![Screenshot 2022-08-13 235359.png](UI%20UX%20Roadmap%202023%2053517435e6604f9986db40c1f97802c0/Screenshot_2022-08-13_235359.png)
+![Screenshot 2022-08-13 235359.png](img/Screenshot_2022-08-13_235359.png)
 
 *Note : You have to know first the difference between UI / UX to determine if the field is suitable for you and which one you prefer more ( UI or UX )*
 

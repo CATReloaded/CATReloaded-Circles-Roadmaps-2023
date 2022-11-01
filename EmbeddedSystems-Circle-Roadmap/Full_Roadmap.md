@@ -1,5 +1,5 @@
 
-Here you have all  the core topics and for each one there are some suggested courses .
+Here you have all  the core topics & for each one there are some suggested courses .
 > Notice that any roadmap is not sacred, you may find some courses better than the suggested ones from your perspective and that's completely okay, however, you should go through all the topics.
 So let's start
 # Contents

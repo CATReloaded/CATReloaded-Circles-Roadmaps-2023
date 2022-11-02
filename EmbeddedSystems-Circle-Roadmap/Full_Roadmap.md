@@ -12,6 +12,7 @@ So let's start
 ## Beginner Level
 - [C Programming](#c-programming)
 - [Advanced C](#advanced-c)
+- [Projects](#projects)
 - [Introduction to Git and GitHub](#introduction-to-git-and-github)
 - [Data Structure](#data-structure)
 - [Algorithm](#algorithm) 
@@ -45,7 +46,6 @@ Videos from 15 to 30 at this playlist :[Neso Academy](https://www.youtube.com/pl
 
 [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
                                            
-
                    
 ### Introduction to Git and GitHub
 studying it from :
@@ -55,22 +55,29 @@ studying it from :
 
 
              Then  doing a large-scale project covered all studied topics 
+       
+ ### Projects
+ #### There are some suggested C projects.
 
+   [Student System Record](https://drive.google.com/file/d/1G6d5u4RAeCquRJj-CYL04ESjOv4DDs8D/view?fbclid=IwAR1s_hTaCaMoOz5moxizFLt-zF7zizETbyYcyX8IMGsq_fkAjWPlzYe8vpw).
+   
+   [Payment Application](https://docs.google.com/document/d/13wQxfnEIRgrSuv0ZBfRaBNXUcO3Xk5kqtx8MJtn5SWs/edit?fbclid=IwAR0kwUSN4tz2OUQ_In5d_fKScrCclV18CLoi6F-EZGcAp-joDEqR_FcoZFk#) 
+   
 ### Data Structure
 Here we will go to learn the basic data structures like: `stacks` `queues` `lists` `trees`. Also learning how to implement them in C.
 
 we will study these topics from :-
 [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
-You will find the course assignments [here](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures?fbclid=IwAR3mPu1dgR9lheko7pB0nXW_3lfa3qxGlUJxko3b-CsShx9D3KSWTFOLnsE) and the book [here](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4)                             
-                                                     
+You will find the course assignments [here](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures?fbclid=IwAR3mPu1dgR9lheko7pB0nXW_3lfa3qxGlUJxko3b-CsShx9D3KSWTFOLnsE) and the book [here](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4)     
+
+                        
          
 ### Algorithm 
-Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.
+#### Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.
 
-"big-oh" notation asymptotic analysis
-Divide-and-conquer basics
-QuickSort
-Linear-time selection
+Here we will go to learn Some concepts `asymptotic analysis` `Divide-and-conquer basics` `Searching techniques` `Sorting techniques`
+
+we will study these topics from :-
 - [Grokking Algorithms](https://b-ok.africa/book/2779892/2466e4)
 - [Intro to Algorithm](https://www.youtube.com/playlist?list=PLIHnBIU7Birg7x868_ucmUcy6ohMCgMxM).
 - [Stanford course at coursera](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms#syllabus).
@@ -79,11 +86,16 @@ Linear-time selection
 **Note :**
 before this level you should have a good knowledge with [digital design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and basics knowledge with [electronics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei) `
 ### MCU Architecture 
-- processor execution steps(fetch,decode,Execute)
-- MCU fundamental
-- (os vs    Bare Metal , Mcu memory types,Van Neumann vs   Harvard, Cisc vs Risc) .
-- MCU Clocks(clock source). 
+Here we will go to learn Some concepts
+- `processor internal Structure`
+- `processor execution steps(fetch,decode,Execute)`
+- `Mcu memory types`
+- `(os  vs  Bare Metal ,Van Neumann vs Harvard, Cisc vs Risc)` 
+- `MCU Clocks(clock source)` 
 ###  MCU interfacing 
+Here we will go to learn Some concepts `DIO` `Interuppt` `ADC` `Timers` `Communication Protocols`
+
+There are some courses to study these topics:-
 - NTI course 
 - [fwd professional track](https://drive.google.com/drive/folders/1SFIBO8L_GFmiQP05eJwqVdHQtCnH9E4a)
 - [AVR - YouTube Course](https://www.youtube.com/watch?v=jQGnEbZjUxw&list=PLa4kqtM7SuFzUJmqhUBi9GBNBFu8Frjvb&ab_channel=ArafaMicrosys)

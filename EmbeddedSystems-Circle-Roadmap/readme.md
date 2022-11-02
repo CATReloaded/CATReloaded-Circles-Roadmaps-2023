@@ -1,5 +1,5 @@
-Here you have all  the core topics and some suggested courses for those topics.
-> Notice that any roadmap is not sacred, you may find some courses better than the suggested ones from your perspective. However, you should go through all the topics.
+Here, you will find all the core topics and some suggested courses for those topics.
+> Notice that any roadmap is not sacred. You may find better alternatives to the suggested courses from your perspective. However, this roadmap contains all the core topic and you should go through all of them.
 So let's start
 # Contents
 - [Beginner Level](#beginner-level)
@@ -49,7 +49,7 @@ Learning more about pointers & thier core techniques for memory management.
                             
 
 
-    A large-scale project covering all studied topics.
+    Then, a large-scale project covering all studied topics.
        
  ### Projects
  #### There are some suggested C projects.
@@ -59,7 +59,7 @@ Learning more about pointers & thier core techniques for memory management.
    [Payment Application](https://docs.google.com/document/d/13wQxfnEIRgrSuv0ZBfRaBNXUcO3Xk5kqtx8MJtn5SWs/edit?fbclid=IwAR0kwUSN4tz2OUQ_In5d_fKScrCclV18CLoi6F-EZGcAp-joDEqR_FcoZFk#) 
    
 ### Data Structure
-Here we will learn the basic data structures  `stacks`, `queues`, `lists`, `trees` and how to impelement them in C.
+Here, we will learn the basic data structures  `stacks`, `queues`, `lists`, `trees` and how to impelement them in C.
 
 [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca) ([Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures?fbclid=IwAR3mPu1dgR9lheko7pB0nXW_3lfa3qxGlUJxko3b-CsShx9D3KSWTFOLnsE), [Book](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4))
 
@@ -84,16 +84,16 @@ We will learn about `Processor Internal Structure`
  `(OS  vs  Bare Metal, Van Neumann vs Harvard, CISC vs RISC)` 
  `MCU Clocks(Clock Source)`.
 ###  MCU interfacing 
-Here we will learn about `DIO` `Interuppt` `ADC` `Timers` `Communication Protocols`
+Here, we will learn about `DIO` `Interuppt` `ADC` `Timers` `Communication Protocols`
 
 - NTI Course 
 - [FWD Professional Track](https://drive.google.com/drive/folders/1SFIBO8L_GFmiQP05eJwqVdHQtCnH9E4a)
 - [AVR - YouTube Course](https://www.youtube.com/watch?v=jQGnEbZjUxw&list=PLa4kqtM7SuFzUJmqhUBi9GBNBFu8Frjvb&ab_channel=ArafaMicrosys)
 ### **Important notes**
    - The main reference during this stage should  be from [DataSheets](https://drive.google.com/drive/folders/11zNGV-v-26h14kpLQ8JbMDoSIS0cgp7x).
-   - You can also check [AVR MAZIDI Book](link)
-Starting from chapter 7.
-   - [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec) (Chapters 1-4, 9, 101).
+   - You can also check 
+      -  [AVR MAZIDI Book](link) starting from chapter 7.
+      - [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec) (Chapters 1-4, 9, 101).
 
 ---
 ## Advanced Level
@@ -118,9 +118,9 @@ Starting from chapter 7.
  
  [AVR MAZIDI](link)
  
- [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec)(ch1,2,3,4,9,101)
+ [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec)(Chapters 1-4,9,101)
  
- [Definitive Guide to ARM Cortex ](link)(ch 1,4,5,6,7)
+ [Definitive Guide to ARM Cortex ](link)(Chapters 1, 4-7)
  
  ---
 # Contact US

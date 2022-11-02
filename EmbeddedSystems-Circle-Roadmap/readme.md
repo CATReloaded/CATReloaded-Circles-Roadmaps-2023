@@ -34,7 +34,7 @@ Beside these matierial, it is recommended to read the chapter(s) of each topic f
 
         
 ### Advanced C
-Learning more about pointers & thier core techniques for memory management.
+Here, we will learn more about pointers & thier core techniques for memory management.
 
 Courses:
 - [Neso Academy: C programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) (15 - 30).

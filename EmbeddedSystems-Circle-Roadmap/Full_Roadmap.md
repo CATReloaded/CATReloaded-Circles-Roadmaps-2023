@@ -6,6 +6,7 @@ So let's start
 - [Beginner Level](#beginner-level)
 - [Intermediate Level](#intermediate-level)
 - [Advanced Level](#advanced-level)
+- [References](#reference)
  
  ---
 ## Beginner Level
@@ -70,7 +71,7 @@ Algorithms are the heart of computer science, and the subject has countless prac
 Divide-and-conquer basics
 QuickSort
 Linear-time selection
-
+- [Grokking Algorithms](https://b-ok.africa/book/2779892/2466e4)
 - [Intro to Algorithm](https://www.youtube.com/playlist?list=PLIHnBIU7Birg7x868_ucmUcy6ohMCgMxM).
 - [Stanford course at coursera](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms#syllabus).
 ---
@@ -88,9 +89,10 @@ before this level you should have a good knowledge with [digital design](https:/
 - [AVR - YouTube Course](https://www.youtube.com/watch?v=jQGnEbZjUxw&list=PLa4kqtM7SuFzUJmqhUBi9GBNBFu8Frjvb&ab_channel=ArafaMicrosys)
 ### **Important notes**
    - The main reference during this stage should  be from [DataSheet](https://drive.google.com/drive/folders/11zNGV-v-26h14kpLQ8JbMDoSIS0cgp7x) 
-   - You can also check this book 
+   - You can also check this books 
   [AVR MAZIDI](link)
 Starting from chapter 7
+[An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec) (ch1,2,3,4,9,101) 
 
 ---
 # Advanced Level
@@ -103,3 +105,13 @@ Starting from chapter 7
   - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](link)
 ### Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging.
   - ["DIY RTOS Made Easy: Mastering Microcontrollers"](link)
+ ---
+ #References
+ [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
+ [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
+ [Data Structure and Program Design in C](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4)  
+ [Grokking Algorithms](https://b-ok.africa/book/2779892/2466e4)
+ [AVR MAZIDI](link)
+ [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec)(ch1,2,3,4,9,101)
+ [Definitive Guide to ARM Cortex ](link)(ch 1,4,5,6,7)
+ 

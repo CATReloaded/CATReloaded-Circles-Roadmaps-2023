@@ -28,7 +28,7 @@ Course:
  - OR [Microcontroller Embedded C Programming: Absolute Beginners | Udemy](https://www.udemy.com/course/microcontroller-embedded-c-programming/)         (great course but  paid)
 
 **Note :**
-Beside these matierial, it is recommended to read the chapter of each topic from [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
+Beside these matierial, it is recommended to read the chapter(s) of each topic from [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
 
 
 

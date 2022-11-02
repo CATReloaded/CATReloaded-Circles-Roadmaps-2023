@@ -6,7 +6,7 @@ So let's start
 - [Beginner Level](#beginner-level)
 - [Intermediate Level](#intermediate-level)
 - [Advanced Level](#advanced-level)
-- [References](#reference)
+- [References](#references)
  
  ---
 ## Beginner Level

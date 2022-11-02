@@ -21,10 +21,11 @@ So let's start
 **Topics covered:** 
 `what is C` `formatted input/output` `conditions and loops` `data types`  `functions` `arrays` `pointers` `strings` `structures` `unions and enums` 
 
-  [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)      ( recommended && Free  course )
+Course:
+  -  [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)      ( recommended && Free  course )
 
-Or 
-[Microcontroller Embedded C Programming: Absolute Beginners | Udemy](https://www.udemy.com/course/microcontroller-embedded-c-programming/)         (great course but  paid)
+ 
+ - OR [Microcontroller Embedded C Programming: Absolute Beginners | Udemy](https://www.udemy.com/course/microcontroller-embedded-c-programming/)         (great course but  paid)
 
 **Note :**
 Beside these matierial, it is recommended to read the chapter of each topic from [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
@@ -35,41 +36,41 @@ Beside these matierial, it is recommended to read the chapter of each topic from
 ### Advanced C
 Learning more about pointers & thier core techniques for memory management.
 
+Courses:
+- [Neso Academy: C programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) (15 - 30).
 
-[Neso Academy: C programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) (from 15 to 30)
+- [MycodeSchool: Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 
-[MycodeSchool: Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
-
-[Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
+- [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
                                            
                    
 ### Introduction to Git and GitHub
 
-[Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=7346s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData)           
-                            
+- [Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=7346s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData)           
 
-
-    Then, a large-scale project covering all studied topics.
+      Then, a large-scale project covering all studied topics.
        
  ### Projects
- #### There are some suggested C projects.
+ There are some suggested C projects.
 
-   [Student System Record](https://drive.google.com/file/d/1G6d5u4RAeCquRJj-CYL04ESjOv4DDs8D/view?fbclid=IwAR1s_hTaCaMoOz5moxizFLt-zF7zizETbyYcyX8IMGsq_fkAjWPlzYe8vpw)
+   - [Student System Record](https://drive.google.com/file/d/1G6d5u4RAeCquRJj-CYL04ESjOv4DDs8D/view?fbclid=IwAR1s_hTaCaMoOz5moxizFLt-zF7zizETbyYcyX8IMGsq_fkAjWPlzYe8vpw)
    
-   [Payment Application](https://docs.google.com/document/d/13wQxfnEIRgrSuv0ZBfRaBNXUcO3Xk5kqtx8MJtn5SWs/edit?fbclid=IwAR0kwUSN4tz2OUQ_In5d_fKScrCclV18CLoi6F-EZGcAp-joDEqR_FcoZFk#) 
+   - [Payment Application](https://docs.google.com/document/d/13wQxfnEIRgrSuv0ZBfRaBNXUcO3Xk5kqtx8MJtn5SWs/edit?fbclid=IwAR0kwUSN4tz2OUQ_In5d_fKScrCclV18CLoi6F-EZGcAp-joDEqR_FcoZFk#) 
    
 ### Data Structure
 Here, we will learn the basic data structures  `stacks`, `queues`, `lists`, `trees` and how to impelement them in C.
 
-[CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca) ([Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures?fbclid=IwAR3mPu1dgR9lheko7pB0nXW_3lfa3qxGlUJxko3b-CsShx9D3KSWTFOLnsE), [Book](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4))
+Courses:
+- [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca) ([Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures?fbclid=IwAR3mPu1dgR9lheko7pB0nXW_3lfa3qxGlUJxko3b-CsShx9D3KSWTFOLnsE), [Book](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4))
 
                         
          
 ### Algorithm 
-#### Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.
+**Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.**
 
 Here, we will learn about `asymptotic analysis` `Divide-and-conquer basics` `Searching techniques` `Sorting techniques`
 
+Courses:
 - [Grokking Algorithms Book](https://b-ok.africa/book/2779892/2466e4)
 - [Intro to Algorithm](https://www.youtube.com/playlist?list=PLIHnBIU7Birg7x868_ucmUcy6ohMCgMxM).
 - [Stanford course at coursera](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms#syllabus).
@@ -86,6 +87,7 @@ We will learn about `Processor Internal Structure`
 ###  MCU interfacing 
 Here, we will learn about `DIO` `Interuppt` `ADC` `Timers` `Communication Protocols`
 
+Courses:
 - NTI Course 
 - [FWD Professional Track](https://drive.google.com/drive/folders/1SFIBO8L_GFmiQP05eJwqVdHQtCnH9E4a)
 - [AVR - YouTube Course](https://www.youtube.com/watch?v=jQGnEbZjUxw&list=PLa4kqtM7SuFzUJmqhUBi9GBNBFu8Frjvb&ab_channel=ArafaMicrosys)

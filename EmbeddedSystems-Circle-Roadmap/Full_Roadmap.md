@@ -108,8 +108,10 @@ Starting from chapter 7
  ---
  # References
  [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
+ 
  [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
- [Data Structure and Program Design in C](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4)  
+ [Data Structure and Program Design in C](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4) 
+ 
  [Grokking Algorithms](https://b-ok.africa/book/2779892/2466e4)
  [AVR MAZIDI](link)
  [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec)(ch1,2,3,4,9,101)

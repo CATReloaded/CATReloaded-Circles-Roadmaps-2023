@@ -136,7 +136,7 @@ Starting from chapter 7
  
  ---
 # Contact US
-### Feel free t contact us 
+### Feel free to contact us 
 [Mohsen Youssif(CAT Reloaded EmbeddedSystems Head 23)](https://www.linkedin.com/in/mohsen-youssif-bb4198193/)
 
 [Ahmed Maged(CAT Reloaded EmbeddedSystems Vice Head 23)](https://www.linkedin.com/in/ahmedmaged0a/?fbclid=IwAR3EY-blPqlp1R9GSPh3s9QtG1YqEUR8Lxg30rAK-Q7oXlwXYLipT8_ucAU)

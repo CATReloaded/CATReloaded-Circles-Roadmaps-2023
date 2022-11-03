@@ -5,9 +5,6 @@ So let's start
 ## :computer: What is the Embedded Systems?
 #### It's a computer system with limited resources used for performing a specific task
 
-[![asciicast](https://imgur.com/DCGj8aN?fbclid=IwAR2cEUYZ2KQb23vL_MjwqaOakRFMNg5dD49US1gQkLl6msm2JXqbp_475do.mp4)](https://imgur.com/DCGj8aN?fbclid=IwAR2cEUYZ2KQb23vL_MjwqaOakRFMNg5dD49US1gQkLl6msm2JXqbp_475do)
-
- 
 # Contents
 - [Beginner Level](#beginner-level)
 - [Intermediate Level](#intermediate-level)

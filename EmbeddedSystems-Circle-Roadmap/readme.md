@@ -29,7 +29,7 @@ So let's start
 **Topics covered:** 
 `what is C` `formatted input/output` `conditions and loops` `data types`  `functions` `arrays` `pointers` `strings` `structures` `unions and enums` 
 
-Course:
+Courses:
   -  [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)      ( recommended && Free  course )
 
  

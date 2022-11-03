@@ -4,7 +4,10 @@ Here, you will find all the core topics and some suggested courses for those top
 So let's start
 ## :computer: What is the Embedded Systems?
 #### It's a computer system with limited resources used for performing a specific task
-![animation](https://user-images.githubusercontent.com/82379828/199726928-b97f6138-fc03-4d93-a9c1-ae0d8e876df6.gif)
+
+[![asciicast](https://imgur.com/DCGj8aN?fbclid=IwAR2cEUYZ2KQb23vL_MjwqaOakRFMNg5dD49US1gQkLl6msm2JXqbp_475do.mp4)](https://imgur.com/DCGj8aN?fbclid=IwAR2cEUYZ2KQb23vL_MjwqaOakRFMNg5dD49US1gQkLl6msm2JXqbp_475do)
+
+ 
 # Contents
 - [Beginner Level](#beginner-level)
 - [Intermediate Level](#intermediate-level)

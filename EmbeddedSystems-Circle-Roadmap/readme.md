@@ -114,7 +114,7 @@ Courses:
 
 ---
 ## Advanced Level
-<img src="https://user-images.githubusercontent.com/82379828/199723846-8860c6c6-2635-4bf9-a86f-4d4fa973f6ef.png" width="1000" height="600">
+<img src="https://user-images.githubusercontent.com/82379828/199723846-8860c6c6-2635-4bf9-a86f-4d4fa973f6ef.png" width="950" height="600">
 
 
 

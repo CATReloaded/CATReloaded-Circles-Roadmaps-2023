@@ -2,10 +2,7 @@
 
 This road map is all about reaching the target of our circle which cares about moving a zero skilled student to a good point as a front end developer and programmer in general.
 
-## Other Roads
 
--   [English Road Map](https://github.com/MohamedElmdary/cat-frontend-circle-road-map)
--   [Docs Road Map](https://github.com/MohamedElmdary/cat-frontend-circle-road-map/blob/master/README-DOCS.md)
 
 ## Resources
 

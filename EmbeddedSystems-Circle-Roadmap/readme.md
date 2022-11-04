@@ -7,6 +7,10 @@ So let's start
 ### It's a computer system with limited resources used for performing a specific task
 ![download](https://user-images.githubusercontent.com/82379828/199966551-c00590a6-16c0-4c4e-9b03-c12eb5e3eb5b.png)
 
+## :computer: Embedded Systems Applications?
+
+![vv](https://user-images.githubusercontent.com/82379828/199989616-c523d1fa-a110-4e9e-b622-56ab5b305280.png)
+
 
 # Contents
 - [Beginner Level](#beginner-level)

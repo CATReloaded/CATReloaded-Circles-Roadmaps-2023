@@ -78,7 +78,7 @@ You can learn about them from these resources:
 ### Data Structure
 Here, we will learn the basic data structures  `stacks`, `queues`, `lists`, `trees` and how to impelement them in C.
 
-Courses:
+Course:
 - [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca) ([Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures?fbclid=IwAR3mPu1dgR9lheko7pB0nXW_3lfa3qxGlUJxko3b-CsShx9D3KSWTFOLnsE), [Book](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4))
 
                         
@@ -113,7 +113,7 @@ Courses:
    - The main reference during this stage should  be from [DataSheets](https://drive.google.com/drive/folders/11zNGV-v-26h14kpLQ8JbMDoSIS0cgp7x).
    - You can also check 
       -  [AVR MAZIDI Book](link) starting from chapter 7.
-      - [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec) (Chapters 1-4, 9, 101).
+      - [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec) (Chapters 1-4, 9, 10).
 
 ---
 ## Advanced Level
@@ -150,7 +150,7 @@ Courses:
  
  ---
 # Contact US
-Feel free to contact us 
+#### Feel free to contact us 
 
 [Mohsen Youssif(CAT Reloaded EmbeddedSystems Head 23)](https://www.linkedin.com/in/mohsen-youssif-bb4198193/)
 

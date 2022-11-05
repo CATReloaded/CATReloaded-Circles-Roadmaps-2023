@@ -5,7 +5,7 @@ So let's start
 
 ## :computer: What is an Embedded System?
 ### It's a computer system with limited resources used for performing a specific task
-![download](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![download](https://media.giphy.com/media/mlxdVEfTlOkaX2ZKte/giphy.gif)
 ## :computer: Embedded Systems Applications?
 
 ![vv](https://user-images.githubusercontent.com/82379828/199989616-c523d1fa-a110-4e9e-b622-56ab5b305280.png)

@@ -5,7 +5,7 @@ So let's start
 
 ## :computer: What is an Embedded System?
 ### It's a computer system with limited resources used for performing a specific task
-![download](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps-2023/tree/main/EmbeddedSystems-Circle-Roadmap/gif.mp4.gif)
+![download](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps-2023/tree/main/EmbeddedSystems-Circle-Roadmap/gif.mp4)
 
 ## :computer: Embedded Systems Applications?
 

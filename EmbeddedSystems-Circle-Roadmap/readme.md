@@ -23,8 +23,8 @@ So let's start
 ## Beginner Level
 - [C Programming](#c-programming)
 - [Advanced C](#advanced-c)
-- [Projects](#projects)
 - [Introduction to Git and GitHub](#introduction-to-git-and-github)
+- [Projects](#projects)
 - [Data Structure](#data-structure)
 - [Algorithm](#algorithm) 
 

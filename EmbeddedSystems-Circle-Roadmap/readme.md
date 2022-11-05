@@ -3,7 +3,7 @@ Here, you will find all the core topics and some suggested courses for those top
 > Notice that any roadmap is not sacred. You may find better alternatives to the suggested courses from your perspective. However, this roadmap contains all the core topic and you should go through all of them.
 So let's start
 
-## :computer: What is the Embedded Systems?
+## :computer: What is an Embedded System?
 ### It's a computer system with limited resources used for performing a specific task
 ![download](https://user-images.githubusercontent.com/82379828/199966551-c00590a6-16c0-4c4e-9b03-c12eb5e3eb5b.png)
 

@@ -19,7 +19,7 @@ So let's start
 - [Contact US](#contact-us)
  
  ---
-## Beginner Level
+# Beginner Level
 - [C Programming](#c-programming)
 - [Advanced C](#advanced-c)
 - [Introduction to Git and GitHub](#introduction-to-git-and-github)
@@ -27,7 +27,7 @@ So let's start
 - [Data Structure](#data-structure)
 - [Algorithm](#algorithm) 
 
-### C Programming
+## C Programming
 
 ![What is The C Programming Language_ A Tutorial for Beginners (1)](https://user-images.githubusercontent.com/82379828/199721371-fd5ccd38-1b7c-4ef9-88fc-7c490c37f948.png)
 
@@ -47,7 +47,7 @@ Beside these matierial, it is recommended to read the chapter(s) of each topic f
 
 
         
-### Advanced C
+## Advanced C
 Here, we will learn more about pointers & thier core techniques for memory management.
 
 Courses:
@@ -58,7 +58,7 @@ Courses:
 - [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
                                            
                    
-### Introduction to Git and GitHub
+## Introduction to Git and GitHub
 <img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="500">
 
  First,what is the difference between Git and GitHub?  - [see this](https://devmountain.com/blog/git-vs-github-whats-the-difference/)
@@ -71,22 +71,27 @@ You can learn about them from these resources:
 
                                    Then, a large-scale project covering all studied topics.
        
- ### Projects
+ ## Projects
  There are some suggested C projects.
 
    - [Student System Record](https://drive.google.com/file/d/1G6d5u4RAeCquRJj-CYL04ESjOv4DDs8D/view?fbclid=IwAR1s_hTaCaMoOz5moxizFLt-zF7zizETbyYcyX8IMGsq_fkAjWPlzYe8vpw)
    
    - [Payment Application](https://docs.google.com/document/d/13wQxfnEIRgrSuv0ZBfRaBNXUcO3Xk5kqtx8MJtn5SWs/edit?fbclid=IwAR0kwUSN4tz2OUQ_In5d_fKScrCclV18CLoi6F-EZGcAp-joDEqR_FcoZFk#) 
    
-### Data Structure
+## Data Structure
 Here, we will learn the basic data structures  `stacks`, `queues`, `lists`, `trees` and how to impelement them in C.
 
 Course:
 - [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca) ([Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures?fbclid=IwAR3mPu1dgR9lheko7pB0nXW_3lfa3qxGlUJxko3b-CsShx9D3KSWTFOLnsE), [Book](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4))
 
+### 	:page_with_curl: Data Structure Articles:-
+- [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+- [Stack](https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/)
+- [Queue](https://www.geeksforgeeks.org/queue-data-structure/)
+- [Hash Table](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
                         
          
-### Algorithm 
+## Algorithm 
 **Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.**
 
 Here, we will learn about `asymptotic analysis` `Divide-and-conquer basics` `Searching techniques` `Sorting techniques`

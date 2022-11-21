@@ -55,7 +55,7 @@ Courses:
 
 - [MycodeSchool: Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 
-- [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
+- [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://drive.google.com/file/d/1L_9Sg2q89R6AQEuDJvFQI-AmhCbsNRkV/view?usp=sharing)
                                            
                    
 ## Introduction to Git and GitHub
@@ -66,7 +66,7 @@ Courses:
 You can learn about them from these resources:
 - [Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=7346s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData)   
       [The most common commands in git.](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
-- [Pro Git](https://b-ok.africa/book/2885145/8f03fc)
+- [Pro Git](https://drive.google.com/file/d/13h9CWcrnBwbLKcRTr4-ypcy0rawzbvYY/view?usp=sharing)
 
 
                                    Then, a large-scale project covering all studied topics.
@@ -97,7 +97,7 @@ Course:
 Here, we will learn about `asymptotic analysis` `Divide-and-conquer basics` `Searching techniques` `Sorting techniques`
 
 Courses:
-- [Grokking Algorithms Book](https://b-ok.africa/book/2779892/2466e4)
+- [Grokking Algorithms Book](https://drive.google.com/file/d/1TIToCrGpf5FPk3Njxo6yjbxg727IASX6/view?usp=sharing)
 - [Intro to Algorithm](https://www.youtube.com/playlist?list=PLIHnBIU7Birg7x868_ucmUcy6ohMCgMxM).
 - [Stanford course at coursera](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms#syllabus).
 ---
@@ -120,8 +120,8 @@ Courses:
 ### **Important notes**
    - The main reference during this stage should  be from [DataSheets](https://drive.google.com/drive/folders/11zNGV-v-26h14kpLQ8JbMDoSIS0cgp7x).
    - You can also check 
-      -  [AVR MAZIDI Book](link) starting from chapter 7.
-      - [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec) (Chapters 1-4, 9, 10).
+      -  [AVR MAZIDI Book](https://drive.google.com/file/d/1cs9Ege67z89aa7BaEmdAnm4dOVoHqiid/view?usp=sharing) starting from chapter 7.
+      - [An Embedded Software Primer](https://drive.google.com/file/d/1BCddCZ_LizPQoFMy7FRS3AHiuXbTTqaO/view?usp=sharing) (Chapters 1-4, 9, 10).
 
 ---
 ## Advanced Level
@@ -132,7 +132,7 @@ Courses:
 
 ### Embedded Systems Programming on ARM Cortex-M3/M4 Processor
   - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https%3A%2F%2Fwww.udemy.com%2F&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-PWoYcyOYAyXaYXGjuAJSGw&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads)
-  - [Definitive Guide to ARM Cortex ](https://b-ok.africa/book/2278329/0eee18)(Chapters 1, 4-7)
+  - [Definitive Guide to ARM Cortex ](https://drive.google.com/file/d/1ZFaCwmt5XWJc8XiIdeZFbBmU0jystiVd/view?usp=sharing)(Chapters 1, 4-7)
 ### Mastering Microcontroller and Embedded Driver Development  
    - [Mastering Microcontroller and Embedded Driver Development](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https%3A%2F%2Fwww.udemy.com%2F&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-EVU5BQ8ssnr4_csYvFyQzQ&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads) 
 ### Mastering Microcontroller:Timers,PWM,CAN ,  Low Power(MCU2) .
@@ -142,19 +142,19 @@ Courses:
  ---
 
 # References
- [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
+- [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
  
- - [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
- - [Pro Git](https://b-ok.africa/book/2885145/8f03fc)
+ - [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://drive.google.com/file/d/1L_9Sg2q89R6AQEuDJvFQI-AmhCbsNRkV/view?usp=sharing)
+ - [Pro Git](https://drive.google.com/file/d/13h9CWcrnBwbLKcRTr4-ypcy0rawzbvYY/view?usp=sharing)
  - [Data Structure and Program Design in C](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4) 
  
- - [Grokking Algorithms](https://b-ok.africa/book/2779892/2466e4)
+ - [Grokking Algorithms](https://drive.google.com/file/d/1TIToCrGpf5FPk3Njxo6yjbxg727IASX6/view?usp=sharing)
  
- - [AVR MAZIDI](link)
+ - [AVR MAZIDI](https://drive.google.com/file/d/1cs9Ege67z89aa7BaEmdAnm4dOVoHqiid/view?usp=sharing)
  
- - [An Embedded Software Primer](https://b-ok.africa/book/699140/23b0ec)(Chapters 1-4,9,101)
+ - [An Embedded Software Primer](https://drive.google.com/file/d/1BCddCZ_LizPQoFMy7FRS3AHiuXbTTqaO/view?usp=sharing)(Chapters 1-4,9,101)
  
- - [Definitive Guide to ARM Cortex ](link)(Chapters 1, 4-7)
+ - [Definitive Guide to ARM Cortex ](https://drive.google.com/file/d/1ZFaCwmt5XWJc8XiIdeZFbBmU0jystiVd/view?usp=sharing)(Chapters 1, 4-7)
  
  ---
 # Contact US

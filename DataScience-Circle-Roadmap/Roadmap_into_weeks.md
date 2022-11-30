@@ -134,3 +134,4 @@
 - [Menna El-sahy](https://www.linkedin.com/in/mennatullahelsahy)
 - [Ahmed El-Bayomi](https://www.linkedin.com/in/ahmed-khaled-2bb212233)
 - [Aya hazem](https://www.linkedin.com/in/aya-hazem-86b077227)
+- [Nordin shafiq ](https://www.linkedin.com/in/nordin-shafiq/?fbclid=IwAR0EKFcP-qZYYjuDYdZ-hOQHmDnsC-xtod5uXoSSDbu4cAYx0NdgLwBIEMU)

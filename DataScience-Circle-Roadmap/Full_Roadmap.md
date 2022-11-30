@@ -195,6 +195,6 @@ More to come in this level...
 - [Omar Allam](https://www.linkedin.com/in/omarallam22)
 - [Menna El-sahy](https://www.linkedin.com/in/mennatullahelsahy)
 - [Ahmed El-Baioumy](https://www.linkedin.com/in/ahmed-khaled-2bb212233)
-- [Aya hazem](https://www.linkedin.com/in/aya-hazem-86b077227)
-- [Nordin shafiq](https://www.linkedin.com/in/nordin-shafiq/?fbclid=IwAR0EKFcP-qZYYjuDYdZ-hOQHmDnsC-xtod5uXoSSDbu4cAYx0NdgLwBIEMU)
+- [Aya Hazem](https://www.linkedin.com/in/aya-hazem-86b077227)
+- [Nordin Shafiq](https://www.linkedin.com/in/nordin-shafiq/?fbclid=IwAR0EKFcP-qZYYjuDYdZ-hOQHmDnsC-xtod5uXoSSDbu4cAYx0NdgLwBIEMU)
 - [Ahmed Hany](https://www.linkedin.com/in/ahmed-hany-ab00861b5)

@@ -23,20 +23,22 @@
  Task 2 : [Notebook link](https://colab.research.google.com/drive/1FQuws2CMR1K6cG_tGKQRfHGWweCTW0J3?usp=sharing&fbclid=IwAR1MhSuio5xBYvZ-7-mJ03K51Pmjqgr6uuEWKmZ56OJ2voh7hrFK1dpnQoI) <br>  
   
  ### Week 3:
- 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 3 : [Notebook link]() <br>
+ 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
+ [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br>
+ Task 3 : [Notebook link](https://colab.research.google.com/drive/18EvgMmwOK1MGHlun1lfPhLAldy8HxA4r) <br>
   
  ### Week 4:
  Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 4 : [Notebook link]() <br>
- [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
- Task 5 : [Notebook link]() <br>
+ Task 4 : [Notebook link](https://colab.research.google.com/drive/1Ez83kA41LdvwDANbIlLuCpWM-1N_S7WZ?fbclid=IwAR2RuLgihuYPmgVKzgpztbejd9Be7WCNTzEFdWnPE6eVnNrI2NpUgDTjisw#scrollTo=sP93aNy06okn) <br>
   
  ### Week 5:
  First video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
  Read [A Complete Beginner’s Guide to Data Visualization](https://www.analyticsvidhya.com/blog/2021/04/a-complete-beginners-guide-to-data-visualization/?fbclid=IwAR3sPaMHUMuZlYy0h_vh_DvPxtMHLWEoA6QkVB-GsS5uGbRpJGwGO9sMDnY)<br>
  Git [(Udacity course)](https://www.udacity.com/course/version-control-with-git--ud123) <br>
-  Task 6 : [Notebook link]() <br>
+ 
+ ### Final Project:
+ Watch Last 3 videos of [Playlist](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F) <br>
+ make sure to write the code by yourself.
  
  
   
@@ -44,7 +46,7 @@
  ### Week 1:  
  [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br>
  [Guide To Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) <br>
- Task 1 : [Notebook link]([https://drive.google.com/.../1fGW_xa535p07R3MRPqBW...](https://drive.google.com/drive/folders/1fGW_xa535p07R3MRPqBW_dNCER3NnSXS?fbclid=IwAR1tlS4Se4jDIvQtklrQH1DRryPujcrUh8okWnYLsiwzHhyoUgSKeS9CPa4)) <br> 
+ Task 1 : [Notebook link](https://drive.google.com/drive/folders/1fGW_xa535p07R3MRPqBW_dNCER3NnSXS?fbclid=IwAR04s0P-Hgr_AenRTnWA5hTsIkCNDP4XC7Ehew8vtUSybc58GzPIF2hB6FQ) <br> 
   
  ### Week 2:
  Second video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
@@ -54,21 +56,20 @@
  ### Week 3: 
  [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
  Read [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
- Task 3 : [Notebook link]() <br>
+ Task 3 : [Notebook link](https://drive.google.com/drive/folders/1I0-DH020sGtALkRFywWZwrk8xDYrXdP8?fbclid=IwAR02hpfGg_B19EcfrQZoQTH7wuv_i3-9CmAQh2hRHQWO3pxTLtSBz1i1HIA) <br>
   
-  
- ### Week 4:
- Tableau [udacity course](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) <br>
- Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction)                                                                            
- Task 4 : [Notebook link]() <br>
- 
- ### Week 5: 
+ ### Week 4: 
  [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) <br>
  Read [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
- Task 5 : [Notebook link]() <br>
- 
+ Task 5 : [Notebook link](https://docs.google.com/document/d/1Gn-2lyyWU3B_T__H8JMdS-gn8yOpzwICaxH-L9hGH-E/edit?fbclid=IwAR2h2edH9b0EmtwjC9MCRlVScQptGzhRpQnvxaGuZWyNinOVjHdViomRc1k) <br>
+  
+ ### Week 5:
+[ Power BI Tutorial](https://www.youtube.com/watch?v=3u7MQz1EyPY) <br>
+ Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction)                                                                            
+ Task 4 : [Notebook link]() <br>
+
  ### Week 6: 
- [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br>
+ [Web Scraping in Python]([https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing](https://app.datacamp.com/learn/courses/web-scraping-with-python)) <br>
  [Guide to Inferential Statistics](https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/) <br>
  Task 6 : [Notebook link]() <br>
  
@@ -77,10 +78,10 @@
  ## Advanced A
  ### Week 1 :  
  First 3 weeks in [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) <br>
- Task 1 : [Notebook link](https://docs.google.com/forms/d/e/1FAIpQLSdz-6guh0JWStVvNw3mZAcJZF8hWBm9A7jb36iAyFxbW6JeeQ/viewform?fbclid=IwAR2V9vTaS8jsDoT3Fm5KvOAYK7qk8AQNJ057ddYEVqLkG6mYgCZSNmz35DY) <br>
 
  ### Week 2 : 
  [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <br>   
+ Task 1 : [Notebook link](https://docs.google.com/forms/d/e/1FAIpQLSdz-6guh0JWStVvNw3mZAcJZF8hWBm9A7jb36iAyFxbW6JeeQ/viewform?fbclid=IwAR2V9vTaS8jsDoT3Fm5KvOAYK7qk8AQNJ057ddYEVqLkG6mYgCZSNmz35DY) <br>
 
  ### Week 3 : 
  First week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br>  

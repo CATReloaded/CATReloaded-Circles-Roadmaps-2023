@@ -187,3 +187,14 @@ After finishing this level apply to 2 or 3 good sized projects.
 ```      
 More to come in this level...
 ```
+### **Feel free to contact us:**
+- [Khaled El-Hady](https://www.linkedin.com/in/khaled-el-hady)
+- [Rania Hossam](https://www.linkedin.com/in/rania-hossam55)
+- [Mohamed Ayman](https://www.linkedin.com/in/mohammed-ayman-20b108228)
+- [Ahmed Metawaa](https://www.linkedin.com/in/ahmed-metawaa)
+- [Omar Allam](https://www.linkedin.com/in/omarallam22)
+- [Menna El-sahy](https://www.linkedin.com/in/mennatullahelsahy)
+- [Ahmed El-Bayomi](https://www.linkedin.com/in/ahmed-khaled-2bb212233)
+- [Aya hazem](https://www.linkedin.com/in/aya-hazem-86b077227)
+- [Nordin shafiq](https://www.linkedin.com/in/nordin-shafiq/?fbclid=IwAR0EKFcP-qZYYjuDYdZ-hOQHmDnsC-xtod5uXoSSDbu4cAYx0NdgLwBIEMU)
+- [Ahmed Hany](https://www.linkedin.com/in/ahmed-hany-ab00861b5)

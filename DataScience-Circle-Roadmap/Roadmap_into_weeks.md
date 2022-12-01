@@ -51,17 +51,17 @@
  ### Week 2:
  Second video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
  [Visualizing (datacamp Seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn) <br>
- Task 2 : [Notebook link]() <br>  
+
   
  ### Week 3: 
  [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
  Read [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
- Task 3 : [Notebook link](https://drive.google.com/drive/folders/1I0-DH020sGtALkRFywWZwrk8xDYrXdP8?fbclid=IwAR02hpfGg_B19EcfrQZoQTH7wuv_i3-9CmAQh2hRHQWO3pxTLtSBz1i1HIA) <br>
+ Task 2 : [Notebook link](https://drive.google.com/drive/folders/1I0-DH020sGtALkRFywWZwrk8xDYrXdP8?fbclid=IwAR02hpfGg_B19EcfrQZoQTH7wuv_i3-9CmAQh2hRHQWO3pxTLtSBz1i1HIA) <br>
   
  ### Week 4: 
  [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) <br>
  Read [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
- Task 5 : [Notebook link](https://docs.google.com/document/d/1Gn-2lyyWU3B_T__H8JMdS-gn8yOpzwICaxH-L9hGH-E/edit?fbclid=IwAR2h2edH9b0EmtwjC9MCRlVScQptGzhRpQnvxaGuZWyNinOVjHdViomRc1k) <br>
+ Task 3 : [Notebook link](https://docs.google.com/document/d/1Gn-2lyyWU3B_T__H8JMdS-gn8yOpzwICaxH-L9hGH-E/edit?fbclid=IwAR2h2edH9b0EmtwjC9MCRlVScQptGzhRpQnvxaGuZWyNinOVjHdViomRc1k) <br>
   
  ### Week 5:
 [ Power BI Tutorial](https://www.youtube.com/watch?v=3u7MQz1EyPY) <br>
@@ -71,7 +71,7 @@
  ### Week 6: 
  [Web Scraping in Python]([https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing](https://app.datacamp.com/learn/courses/web-scraping-with-python)) <br>
  [Guide to Inferential Statistics](https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/) <br>
- Task 6 : [Notebook link]() <br>
+ Task 5 : [Notebook link]() <br>
  
   
   

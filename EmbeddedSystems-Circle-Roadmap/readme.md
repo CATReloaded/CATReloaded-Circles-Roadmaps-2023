@@ -1,5 +1,5 @@
 # :robot::mechanical_arm: EmbeddedSystems Roadmap
-Here, you will find all the core topics and some suggested courses for those topics.
+Here, you will find all the core topics and some suggested courses for those topics .
 > Notice that any roadmap is not sacred. You may find better alternatives to the suggested courses from your perspective. However, this roadmap contains all the core topic and you should go through all of them.
 So let's start
 

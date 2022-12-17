@@ -15,7 +15,7 @@ in the hands of 2.5 billion users, it has become essential for companies to deve
 Before starting with Android you have to know about Git and GitHub. *(If you know about them you can skip this section.)*
 
 ## Git and GitHub:
-<img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="500">
+![Android Github](images/Android%20Github.png)
 
 
 First,what is the difference between Git and GitHub?
@@ -70,12 +70,29 @@ You are ready to start your journey with Android but before starting with Androi
   - Polymorphism
 - :clipboard: **Build a simple project with Java**
 
+### Algorithms
+books:
+- Grokking Algorithms (Entry).
+- Algorithms Unplugged (Advanced).
+
+- [Course ||Part1](https://www.coursera.org/learn/algorithms-part1)
+- [Course ||Part2](https://www.coursera.org/learn/algorithms-part2)
+
+### Data Structures
+- [Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+or 
+
+- [Course **Arabic**](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+
+You are all set up, now 🤓
+
 ---
 
 ## Android basics:
 Now you are ready to start programming real Android apps for that you will need a good IDE to help you in your journey and I recommend you use Android studio.
 
-<img src="https://user-images.githubusercontent.com/79477855/192854794-44190269-2157-4bd0-9c3f-272eb4f00afd.jpeg" width="1200" height="550">
+![Android Android](images/Android%20Basic.jpeg)
 
 We will start with the basics of the basics :sweat_smile:
 
@@ -98,7 +115,7 @@ Then you will learn about making a list of views using Recyclerview
 [this](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrBsFp69NhGzyyupl6R0YdD)
 
 #### `English:`
-- [Check this playlist](https://youtube.com/playlist?list=PL5HLK-oxmU3ptGN9z8qK2nRDsLdJyqitC)
+- [Check this playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCqEyW_LVTM9r6NnyGD4Db8)
 
 
 Then you will need to learn how to reuse portions of your app's UI by using fragments and navigation component.
@@ -118,7 +135,6 @@ Then you will need to learn how to reuse portions of your app's UI by using frag
   - Using Drawer layout and Bottom Navigation
   - Using safe args
 - :clipboard: **Build a simple android application to apply your knowledge**
-
 ---
 
 ## Kotlin:
@@ -176,7 +192,7 @@ Now we will start writing Android apps using the skills we have learned in the p
 ## Before moving to the next level you have to make sure that you understand these topics:
 - Developing Android apps using Kotlin.
 - Good understanding of Android lifecycle.
-- Design architectures *MVC, MVP, **MVVM***  [(Watch this)](https://www.youtube.com/playlist?list=PLe_W3T1SDsYgXzPjQK91xnOaF1iF3KDJ3).
+- Architecture Patterns *MVC, MVP, **MVVM***  [(Watch this)](https://www.youtube.com/playlist?list=PLe_W3T1SDsYgXzPjQK91xnOaF1iF3KDJ3).
 - SQLite basics and Room database.
 - Connect your app to the internet using Retrofit.
 - Multithreading using Coroutines.
@@ -200,7 +216,6 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 * MVI:
   * [Arabic Playlist *Coding with nerds*](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrtwxjYICoXCbHXLTd8qgM-).
   * [English Article](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started).
-* Jetpack compose: [Follow this course](https://developer.android.com/courses/pathways/compose) - [This Repository for more content](https://github.com/jetpack-compose/jetpack-compose-awesome).
 * Services.
 * Broadcast reciever.
 * Content provider.
@@ -208,6 +223,32 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 * Live Data.
 * Firebase auth.
 * Cloud Firestore.
+
+## Very Important Topics
+
+### Retrofit
+  - [Okhttp Interceptors](https://square.github.io/okhttp/features/interceptors/)
+  - [Building your own custom Retrofit adapter](https://medium.com/android-news/building-your-own-retrofit-call-adapter-b198169bab69)
+
+
+ ### Dependency injection with Hilt
+   - [documentation](https://developer.android.com/training/dependency-injection/hilt-android)
+   
+### Testing
+- [Testing types in Android](https://developer.android.com/training/testing/fundamentals)
+- [Unit Test](https://www.youtube.com/watch?v=EkfVL5vCDmo&list=PLQkwcJG4YTCSYJ13G4kVIJ10X5zisB2Lq)
+- [Unit Test talk](https://www.youtube.com/watch?v=AmaHlsd4vUg)
+    
+    
+### Jetpack Compose
+   - [Follow this course](https://developer.android.com/courses/pathways/compose)
+   - [This Repository for more content](https://github.com/jetpack-compose/jetpack-compose-awesome)
+   
+### Clean Archticture
+- [Clean Architecture in Android](https://www.youtube.com/watch?v=8GQTrIY_fqA)  
+- [Modern Android App Architecture](https://developer.android.com/courses/pathways/android-architecture)
+- [Real-World Android by Tutorials "book"](https://www.kodeco.com/books/real-world-android-by-tutorials)
+
 
 ---
 
@@ -223,4 +264,4 @@ You can also check [This Site](https://www.raywenderlich.com/android/books?fbcli
 ### **Feel free to contact us:**
 - [Mahmoud Elshahatt](https://www.linkedin.com/in/mahmoudelshahatt/)
 - [Amany Ashraf](https://www.linkedin.com/in/amany-ashraf-hosni/)
-- [Mohanned Elsayed](https://www.linkedin.com/in/msayeh/)
+- [Mohanned El-Sayeh](https://www.linkedin.com/in/msayeh/)

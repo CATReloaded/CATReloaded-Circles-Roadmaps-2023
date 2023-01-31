@@ -32,7 +32,7 @@
  Task 4 : [Notebook link](https://colab.research.google.com/drive/1Ez83kA41LdvwDANbIlLuCpWM-1N_S7WZ?fbclid=IwAR2RuLgihuYPmgVKzgpztbejd9Be7WCNTzEFdWnPE6eVnNrI2NpUgDTjisw#scrollTo=sP93aNy06okn) <br>
   
  ### Week 5:
- First video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
+ [Understanding Data Visualization (datacamp)](https://app.datacamp.com/learn/courses/understanding-data-visualization)<br>
  Read [A Complete Beginner’s Guide to Data Visualization](https://www.analyticsvidhya.com/blog/2021/04/a-complete-beginners-guide-to-data-visualization/?fbclid=IwAR3sPaMHUMuZlYy0h_vh_DvPxtMHLWEoA6QkVB-GsS5uGbRpJGwGO9sMDnY)<br>
  Git [(Udacity course)](https://www.udacity.com/course/version-control-with-git--ud123) <br>
  

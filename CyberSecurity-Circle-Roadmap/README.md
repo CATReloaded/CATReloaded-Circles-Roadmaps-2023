@@ -196,6 +196,8 @@ Additional Resource : [Powercert Animated Videos](https://www.youtube.com/c/Powe
 
 ## **4️⃣ SOC(Security Operation Center) PATH**
 
+![nw.png](imgs/soc.jpeg)
+
 ### Practical Path 
 **📌 You can go through this path if you like the practical stuff like try hack me and Cyber Defenders... [Here's our SOC Practical Path](https://0xmedhat.gitbook.io/whoami/soc-roadmap-rooms-and-challanges-zero-2-hero)**
 

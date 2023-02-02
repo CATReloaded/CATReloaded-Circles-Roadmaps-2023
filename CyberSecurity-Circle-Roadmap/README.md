@@ -200,7 +200,7 @@ Additional Resource : [Powercert Animated Videos](https://www.youtube.com/c/Powe
 **📌 You can go through this path if you like the practical stuff like try hack me and Cyber Defenders... [Here's our SOC Practical Path](https://0xmedhat.gitbook.io/whoami/soc-roadmap-rooms-and-challanges-zero-2-hero)**
 
 ### Courses Path 
-**📌 You can go through this path if you like the books and courses... [Here's our SOC ### Courses Path](https://docs.google.com/spreadsheets/d/1X8tynxB1-54ABqsEJyChbIhBARsD5hz2B52clvqZ_y0/edit#gid=0)**
+**📌 You can go through this path if you like the books and courses... [Here's our SOC Courses Path](https://docs.google.com/spreadsheets/d/1X8tynxB1-54ABqsEJyChbIhBARsD5hz2B52clvqZ_y0/edit#gid=0)**
 
 ---
 ---

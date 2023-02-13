@@ -25,7 +25,7 @@
  ### Week 3:
  6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
  [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br>
- Task 3 : [Notebook link](https://colab.research.google.com/drive/18EvgMmwOK1MGHlun1lfPhLAldy8HxA4r) <br>
+ Task 3 : [Notebook link](https://colab.research.google.com/drive/1i1RvuBdijNPMmRb1pqHTl9EXmyG6kYkK) <br>
   
  ### Week 4:
  Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 

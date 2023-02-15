@@ -23,13 +23,14 @@
  Task 2 : [Notebook link](https://colab.research.google.com/drive/1FQuws2CMR1K6cG_tGKQRfHGWweCTW0J3?usp=sharing&fbclid=IwAR1MhSuio5xBYvZ-7-mJ03K51Pmjqgr6uuEWKmZ56OJ2voh7hrFK1dpnQoI) <br>  
   
  ### Week 3:
- 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
  [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br>
- Task 3 : [Notebook link](https://colab.research.google.com/drive/1i1RvuBdijNPMmRb1pqHTl9EXmyG6kYkK) <br>
+ Task 3 : [Notebook link](https://colab.research.google.com/drive/1jS7GMtMXxVEA76QAEQr7HHtmQJss9ZF0?usp=sharing&fbclid=IwAR2MKzreksolkUxdWnUmpoRiuDxdmWLA0jJcLL1ZlCegPgm8XvtuUQUJxlQ) <br>
+ 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
+ Task 4 : [Notebook link](https://colab.research.google.com/drive/1i1RvuBdijNPMmRb1pqHTl9EXmyG6kYkK) <br>
   
  ### Week 4:
  Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 4 : [Notebook link](https://colab.research.google.com/drive/1Ez83kA41LdvwDANbIlLuCpWM-1N_S7WZ?fbclid=IwAR2RuLgihuYPmgVKzgpztbejd9Be7WCNTzEFdWnPE6eVnNrI2NpUgDTjisw#scrollTo=sP93aNy06okn) <br>
+ Task 5 : [Notebook link](https://colab.research.google.com/drive/1Ez83kA41LdvwDANbIlLuCpWM-1N_S7WZ?fbclid=IwAR2RuLgihuYPmgVKzgpztbejd9Be7WCNTzEFdWnPE6eVnNrI2NpUgDTjisw#scrollTo=sP93aNy06okn) <br>
   
  ### Week 5:
  [Understanding Data Visualization (datacamp)](https://app.datacamp.com/learn/courses/understanding-data-visualization)<br>

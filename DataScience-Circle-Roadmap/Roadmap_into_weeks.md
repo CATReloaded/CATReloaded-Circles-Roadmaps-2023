@@ -69,7 +69,8 @@
  Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction)                                                                            
  Task 4 : [Notebook link]() <br>
 
- ### Week 6: 
+ ### Week 6:
+ [Watch this session for web scrapping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br>
  [Web Scraping in Python](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>
  [Guide to Inferential Statistics](https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/) <br>
  Task 5 : [Notebook link]() <br>

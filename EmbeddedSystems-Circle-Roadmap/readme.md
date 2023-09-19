@@ -104,6 +104,13 @@ Courses:
 ## Intermediate Level
 **Note :**
 before this level you should have a good knowledge with [digital design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and basics knowledge about [electronics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei).
+
+### C Building process 
+   Here , we will explore the process of obtaining the executable file from our source code, delve into each step involved, and gain insights into intriguing concepts like the preprocessor, compiler, linker, toolchain, and memory sections, among others.
+   
+   Resources :- 
+   - [C building process](https://youtube.com/playlist?list=PLEPINOrvANGdilPO9q6TymvxN9f-_tGRh&si=6ErcWNo4rM2AY3YO)
+   - [Slides](https://docs.google.com/presentation/d/1PgCWQEkJha3OOAIzX3dqIaS1ReniMIN6Z0nfQnnLAvk/edit)
 ### MCU Architecture 
 We will learn about `Processor Internal Structure`
  `Processor Execution Steps(Fetch, Decode, Execute)`
@@ -114,6 +121,7 @@ We will learn about `Processor Internal Structure`
 - [MCU Architucure](https://youtube.com/playlist?list=PLEPINOrvANGfVTricxFp5PW6xCaQ7H1gZ&si=B_bnp8YcWeWeeP_w)
 ###  MCU interfacing 
 Here, we will learn about `DIO` `Interuppt` `ADC` `Timers` `Communication Protocols`
+
 Courses:
 - NTI Course 
 - [AVR - YouTube Course](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&si=5jqlyTfBjCmj_OOe)

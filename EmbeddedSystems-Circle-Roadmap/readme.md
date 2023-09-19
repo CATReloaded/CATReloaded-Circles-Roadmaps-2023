@@ -110,15 +110,18 @@ We will learn about `Processor Internal Structure`
  `Mcu Memory Types`
  `(OS  vs  Bare Metal, Van Neumann vs Harvard, CISC vs RISC)` 
  `MCU Clocks(Clock Source)`.
+  course : 
+- [MCU Architucure](https://youtube.com/playlist?list=PLEPINOrvANGfVTricxFp5PW6xCaQ7H1gZ&si=B_bnp8YcWeWeeP_w)
 ###  MCU interfacing 
 Here, we will learn about `DIO` `Interuppt` `ADC` `Timers` `Communication Protocols`
-
 Courses:
 - NTI Course 
-- [FWD Professional Track](https://drive.google.com/drive/folders/1SFIBO8L_GFmiQP05eJwqVdHQtCnH9E4a)
-- [AVR - YouTube Course](https://www.youtube.com/watch?v=jQGnEbZjUxw&list=PLa4kqtM7SuFzUJmqhUBi9GBNBFu8Frjvb&ab_channel=ArafaMicrosys)
+- [AVR - YouTube Course](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&si=5jqlyTfBjCmj_OOe)
+### Embedded Software Design 
+ Here, we will Understand embedded software design and its different aspects
+ - [Amr Ali Session ](https://youtu.be/EZkctJSefb4?si=3b8tlDSkeWrp1iPK)
 ### **Important notes**
-   - The main reference during this stage should  be from [DataSheets](https://drive.google.com/drive/folders/11zNGV-v-26h14kpLQ8JbMDoSIS0cgp7x).
+   - The main reference during this stage should  be from [DataSheets](https://drive.google.com/file/d/1DUvx0uRzz2CB02DUkOhZvoW8ZauMWYg8/view?usp=sharing).
    - You can also check 
       -  [AVR MAZIDI Book](https://drive.google.com/file/d/1cs9Ege67z89aa7BaEmdAnm4dOVoHqiid/view?usp=sharing) starting from chapter 7.
       - [An Embedded Software Primer](https://drive.google.com/file/d/1BCddCZ_LizPQoFMy7FRS3AHiuXbTTqaO/view?usp=sharing) (Chapters 1-4, 9, 10).

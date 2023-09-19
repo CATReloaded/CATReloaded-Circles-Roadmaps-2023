@@ -125,7 +125,6 @@ Courses:
    - You can also check 
       -  [AVR MAZIDI Book](https://drive.google.com/file/d/1cs9Ege67z89aa7BaEmdAnm4dOVoHqiid/view?usp=sharing) starting from chapter 7.
       - [An Embedded Software Primer](https://drive.google.com/file/d/1BCddCZ_LizPQoFMy7FRS3AHiuXbTTqaO/view?usp=sharing) (Chapters 1-4, 9, 10).
-
 ---
 ## Advanced Level
 <img src="https://user-images.githubusercontent.com/82379828/199723846-8860c6c6-2635-4bf9-a86f-4d4fa973f6ef.png" width="950" height="600">

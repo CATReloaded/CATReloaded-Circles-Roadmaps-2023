@@ -27,17 +27,16 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
 
   - [Core Level](#core-level)
     - [Programming Language](#programming-language)
-    - [Problem Solving (with Algorithms and Data Structures)](#problem-solving-with-algorithms-and-data-structures)
+    - [Problem Solving (with Data Structures And Algorithms)](#problem-solving-with-data-structures-and-algorithms)
     - [Object Oriented Design](#object-oriented-design)
    
   - [Intermidiate Level](#intermidiate-level)
-    - [Design Patterns](#design-patterns)
     - [Databases](#databases)
-    - [Networks](#networks)
     - [Operating Systems](#operating-systems)
-   
+    - [Networks](#networks)
+    
   - [Advanced Level](#advanced-level)
-    - [Distributed Systems](#distributed-systems)
+    - [Design Patterns](#design-patterns)
     - [Software Engineering](#software-engineering)
 
  
@@ -45,48 +44,53 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
  
  ### **Programming Language**
  
- [C++ Programming Basics for Bignners](https://www.youtube.com/playlist?list=PLJzrJ6NUlRb8e5o0jGe8yHYGy2Mu17Eeg)
+> اي لغة برمجة ممكن تتعلمها، يفضل تكون لغة البرمجة الي هتستخدمها في التراك الي أنت ناوي تدرسه، نفترض انك مش عارف؟
+ بسيطة ابدأ بأي حاجة حرفيا وأتعلمها صح وركز علي المفاهيم نفسها
+You can learn python, c#, c++, Java .. anything! but choose **one language only**
 
- ### **Problem Solving (with Algorithms and Data Structures)**
- 
- [Competitive Programming Training Sheet](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit#gid=312851548) : (Recommended for first years students) 
- 
-  [LeetCode Training Sheet](https://docs.google.com/spreadsheets/d/1Zc5uWPGXg39mKxHvq_fjVmp6lh8dv1GiM1Tw6Mq9uQs/edit#gid=1948631141): (Recommended for senior students or students are not interested in Competitive Programming )
-  
-   **Notes :-**
- 
- 1- Algorithms and Data Structures Materials are provided in these two sheets with problems on every topic
- 
- 2- LeetCode Sheet is still being updated
+### **C++**
+
+[C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+
+### **Problem Solving (with Data Structures and Algorithms)**
+> هنا هناخد كورسات يودمي بتاع دكتور مصطفي وهنحل ع التوبيكس الي فيه بشكل أساسي لكن هنستخدم المصادر دي كمصدر إضافي 
+
+English content
+1. [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+OR
+
+Arabic content
+1. [Data Structures Full Course In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+
  
  ### **Object Oriented Design**
+> هنا احنا عاوزين نفهم الأول الـ concepts الأساسية  
+فتمام اختار الفيديوز المناسبة بالنسبة لك في الشرح 
+1. [Object Oriented Programming](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v)
+2. [UML](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+   
+>  المهم إنك تكون عارف تنفذ الـ 3 مشاريع دول في الحقيقة أنا أفضل يوصلوا 6 مشاريع لكن ع الأقل 3 مشاريع
+1. [Mini-Project - Hospital](https://youtu.be/Lu3z4rfU-2s)
+2. [Mini-Project - library](https://youtu.be/zzuhhAuW5FY)
+3. [AskMe](https://youtu.be/xNu6L_pidUo)
+4. [EducationalManagementSystem](https://youtu.be/hsEGVVu7_lE?si=utxjbP1oieQLYMcV)
+5. [OnlineBookReader](https://youtu.be/Rk8vrmSpFII?si=hlSwtzXZu9r0OdlZ)
  
- 1- [Object Oriented Programming](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v)
-
- 2- [SOLID Principles](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
-
- 3- [UML](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
- 
- Recommended : [Head First Object Oriented Analysis and Design Book](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/)
+ Recommended(next step): [Head First Object Oriented Analysis and Design Book](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/)
  
  ## Intermidiate Level
- 
- ### **Design Patterns**
- 
- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
- 
- Recommended : [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
- 
  ### **Databases**
- 
-  1- [Fundamentals of Database Systems](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+ English content
+1. [Database Lessons (first 5 videos)](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
+2. [MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
-  2- [MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+OR
+
+Arabic content
+1. [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+2. [محمد الدسوقي- SQLServer](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=fmAgGJ5DlhkFNdV-)
   
- ### **Networks** 
- 
- [Computer Networking](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
- 
 ### **Operating Systems** 
 
 1- [Operating System Concepts](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)<br>
@@ -94,20 +98,30 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
 3- [Memory Management 2](https://www.youtube.com/watch?v=EWof2WGvFCw&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)<br>
 4- [Virtual Memory](https://www.youtube.com/watch?v=1p1XXdLt_9g&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=7)
 
-
+if you prefer books
+1. [OPERATING SYSTEMS THREE EASY PIECES Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+ 
+ ### **Networks** 
+ 
+ [Computer Networking](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
+ 
 ## Advanced Level
-
-### **Distributed Systems**
-
-[Distributed Systems Lecture Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-
 ### **Software Engineering**
+ 
+ 1- [Software Development Life Cycle](https://www.youtube.com/playlist?list=PLAuF74dVvpM3kz6BaKcMUfDk2VelObKKq)
+ 
+ 2- [Agile Software Development](https://www.youtube.com/watch?v=UxMpn92vGXs)
+ 
+ Recommended : [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 
-1- [Software Development Life Cycle](https://www.youtube.com/playlist?list=PLAuF74dVvpM3kz6BaKcMUfDk2VelObKKq)
+### **Design Patterns**
+ 
+1- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+ 
+ Recommended : [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+ 
 
-2- [Agile Software Development](https://www.youtube.com/watch?v=UxMpn92vGXs)
 
-Recommended : [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 
 
 
@@ -146,6 +160,8 @@ Recommended : [Software Engineering at Google](https://www.oreilly.com/library/v
 
 ## Contact us
 Feel free to contact us
+
+[Shahd Faris El-Badrawy (CAT Reloaded CS Head 23)](https://www.linkedin.com/in/shahd-faris-35896121a/)
 
 [Mahmoud Shawky (CAT Reloaded CS Head 23)](https://www.linkedin.com/in/MahmoudShawkyy)
 
